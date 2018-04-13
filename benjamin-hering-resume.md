@@ -57,7 +57,7 @@ LendingClub Corporation
   Starting out as part of the 4 person on-call rotation, I got my hands dirty on every layer of LendingClub's infrastructure, from high level synthetic monitoring all the way down to dropping the raw hardware onto racks. After gaining operations experience, I pioneered the creation of a new team to focus exclusively on paying down security technical debt in LendingClub's infrastructure while continuing to be a key player in responding to both major security incidents and operational issues.
 
   Projects include:
-  - Fully depricating of old and unmaintained Imperva WAF to F5 ASM for all public facing properties, enabling a new guarentee of 100% WAF protection of all public properties, and automatic signature updates. 
+  - Fully deprecating of old and unmaintained Imperva WAF to F5 ASM for all public facing properties, enabling a new guarantee  of 100% WAF protection of all public properties, and automatic signature updates. 
   - Security education and advocacy through internal teaching. Topics include pentest results and remediation, multifactor authentication benefits, and active threats to the LendingClub platform.
   - Automation and scripting of regularly exercised security controls
 
